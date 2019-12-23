@@ -1,0 +1,124 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cayetanofilms.com" resolutions="1x" timestamp="1517959427985">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="4123184124" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="422302134" ref="index"/>
+    <file name="index.css" crc="3932662621" ref="index"/>
+    <file name="nomq_index.css" crc="4191474030" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u130.php" crc="477989475" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4118540647" ref="index"/>
+    <file name="1.jpg" crc="4159085960" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2.jpg" crc="4072441247" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="5324383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="221503647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.jpg" crc="483197278" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.jpg" crc="3825897443" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.jpg" crc="4084386612" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="svg-pegado-162168x104.svg" crc="280306966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg pegado 162168x104_poster_.png" crc="50923537" ref="index"/>
+    <file name="8_promo_barbie.jpg" crc="4175517314" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_barbie.jpg" crc="157045974" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_ishop_te_da_mas.jpg" crc="199769650" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_exp_apple_triatletas.jpg" crc="4261493261" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5_ishop_dia_de_la_madre.jpg" crc="4023152986" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7_alkosto_plan_0es3.jpg" crc="346409297" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4_ishop_cristian_ramirez.jpg" crc="391892591" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6_juan_bastos_prod.jpg" crc="291679612" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_footer_cayetano_temporal.jpg" crc="71396845" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg-pegado-15035x18.svg" crc="245208980" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg pegado 15035x18_poster_.png" crc="3839930080" ref="index"/>
+    <file name="svg-pegado-405693x53.svg" crc="4020295292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg pegado 405693x53_poster_.png" crc="4247649601" ref="index"/>
+  </folder>
+  <file name="index.html" crc="505422344" seo="true" mt="1517959377612" redirect="true"/>
+</manifest>
